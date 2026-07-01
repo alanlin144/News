@@ -82,5 +82,4 @@ API key **chỉ lưu trên máy bạn**, không gửi đi đâu ngoài Google Ge
 - App chỉ lấy tin **mới** mỗi lần bấm "Lấy tin mới" (bỏ qua bài đã lưu trước
   đó), có thể chạy lại nhiều lần trong ngày.
 - Muốn tự động chạy định kỳ (không cần bấm tay), có thể mở rộng thêm bằng
-  thư viện `schedule` hoặc `APScheduler` — hỏi lại nếu bạn muốn mình thêm
-  tính năng này.
+  thư viện `schedule` hoặc `APScheduler`.
